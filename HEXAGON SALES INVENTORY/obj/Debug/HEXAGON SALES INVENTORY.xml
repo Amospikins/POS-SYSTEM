@@ -1,0 +1,136 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+HEXAGON SALES INVENTORY
+</name>
+</assembly>
+<members>
+<member name="T:HEXAGON_SALES_INVENTORY.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:HEXAGON_SALES_INVENTORY.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:HEXAGON_SALES_INVENTORY.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:HEXAGON_SALES_INVENTORY.My.Resources.Resources._exit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEXAGON_SALES_INVENTORY.My.Resources.Resources._NEW">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEXAGON_SALES_INVENTORY.My.Resources.Resources.ACCT">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEXAGON_SALES_INVENTORY.My.Resources.Resources.cancel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEXAGON_SALES_INVENTORY.My.Resources.Resources.closing">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEXAGON_SALES_INVENTORY.My.Resources.Resources.dab">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEXAGON_SALES_INVENTORY.My.Resources.Resources.damage">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEXAGON_SALES_INVENTORY.My.Resources.Resources.delete">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEXAGON_SALES_INVENTORY.My.Resources.Resources.HE">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEXAGON_SALES_INVENTORY.My.Resources.Resources.HELPS">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEXAGON_SALES_INVENTORY.My.Resources.Resources.isales">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEXAGON_SALES_INVENTORY.My.Resources.Resources.items">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEXAGON_SALES_INVENTORY.My.Resources.Resources.Loading_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEXAGON_SALES_INVENTORY.My.Resources.Resources.LOG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEXAGON_SALES_INVENTORY.My.Resources.Resources.login">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEXAGON_SALES_INVENTORY.My.Resources.Resources.OUTLETS">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEXAGON_SALES_INVENTORY.My.Resources.Resources.pos1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEXAGON_SALES_INVENTORY.My.Resources.Resources.SALES2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEXAGON_SALES_INVENTORY.My.Resources.Resources.servers">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEXAGON_SALES_INVENTORY.My.Resources.Resources.STOCK">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEXAGON_SALES_INVENTORY.My.Resources.Resources.stockin">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEXAGON_SALES_INVENTORY.My.Resources.Resources.user">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
